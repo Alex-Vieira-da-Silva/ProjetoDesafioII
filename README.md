@@ -1,4 +1,4 @@
-##Projeto Desafio II
+Projeto Desafio II
 
 O projeto prático "Criando Soluções Robustas no Dynamics 365 com a Extensão SDK" tem como objetivo explorar a funcionalidade e capacidade do Dynamics 365 utilizando a Extensão SDK.
 
