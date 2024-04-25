@@ -1,4 +1,6 @@
 1 - Credencias de acesso ao Dynamics
+Usuário: ############
+Senha: #############
 
 2 - Solução do Dynamics: SolucaoTreinamentos
 
@@ -7,7 +9,7 @@
 
 3 - Assinatura da chave do projeto no Visual Studio
 Nome da chave: KeyPlugin
-Senha: #Av384829*
+Senha: ###########
 
 4 - Para finalizar o Workflow "Workflow Validar Quantidade Incrições do Aluno" é necessário criar mais uma 
 etapa para associar o "ProjetoDesadioII.dll" ao Workflow, por questão de licença do Dynamics eu não conseguir realizar
