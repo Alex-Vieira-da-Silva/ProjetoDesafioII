@@ -1,6 +1,4 @@
 1 - Credencias de acesso ao Dynamics
-Usuário: alexvieira.2025@hotmail.com
-Senha: #Av384829*
 
 2 - Solução do Dynamics: SolucaoTreinamentos
 
@@ -18,4 +16,4 @@ o procedimento, mas o código está funcionando.
 5 – Obs:. Nesse projeto por questão de licença do Dynamics, eu não conseguir enviar o plugin do projeto desenvolvido no Visual Studio, essa versão do Dynamics é do tipo Demonstração, é ela possui recursos muito limitados, é não disponibilizar a organização para poder acessar o Dynamics via Plugin Registration, mais eu desenvolvi todo o código do projeto é ele esta funcionando, para vc realizar os teste é só enviar a dll do projeto para o Dynamics é em seguida criar a ultima etapa do workflow “Workflow Validar Quantidade Incrições do Aluno”, qualquer coisa a mais vc pode entrar em contato.
 
 Aluno: Alex Vieira
-Email: alexvieira.360@hotmail.com
+
